@@ -31,6 +31,7 @@
 #else
 #include <unistd.h>
 #include <sys/socket.h>
+#include <sys/time.h>
 #endif
 
 #include <stddef.h>
